@@ -1,8 +1,6 @@
 import "./config";
 import $ = require("jquery");
 
-import "@dojo/shim/Promise";
-
 import MapView from "esri/views/MapView";
 import EsriMap from "esri/Map";
 
