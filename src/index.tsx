@@ -1,8 +1,4 @@
 import "./config";
-import $ = require("jquery");
-
-import MapView from "esri/views/MapView";
-import EsriMap from "esri/Map";
 
 import App from "./widgets/models/App";
 
